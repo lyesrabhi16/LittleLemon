@@ -8,6 +8,7 @@ django = "*"
 mysqlclient = "==2.0.0"
 djangorestframework = "*"
 django-types = "*"
+djoser = "*"
 
 [dev-packages]
 
