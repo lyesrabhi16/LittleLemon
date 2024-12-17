@@ -5,12 +5,12 @@ name = "pypi"
 
 [packages]
 django = "*"
-mysqlclient = "==2.0.0"
 djangorestframework = "*"
 django-types = "*"
 djoser = "*"
+mysqlclient = "==2.0.0"
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.9"
